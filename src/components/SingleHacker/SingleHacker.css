@@ -21,11 +21,17 @@
 .single-hacker{
     border: 2px groove grey;
     width: 330px;
-    height: 430px;
+    height: 470px;
     margin-bottom: 35px;
     box-shadow: 3px 3px 11px gray;
     background: rgba(76, 175, 80, 0.3)
 
+
+}
+.text-heading{
+
+
+   font-size: larger;
 
 }
 .btn-style{
