@@ -1,0 +1,40 @@
+.container{
+
+    text-align: center;
+
+
+}
+.container h1,p{
+    font-weight: 700;
+
+
+}
+.container img{
+
+    width: 310px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   margin-top: 7px;
+}
+.single-hacker{
+    border: 2px groove grey;
+    width: 330px;
+    height: 430px;
+    margin-bottom: 35px;
+    box-shadow: 3px 3px 11px gray;
+    background: rgba(76, 175, 80, 0.3)
+
+
+}
+.btn-style{
+
+    background-color: rgb(61, 2, 66);
+    width: 130px;
+    color: white;
+    height: 30px;
+    border:1px solid lightgray;
+    border-radius: 5px ;
+    cursor: pointer;
+}

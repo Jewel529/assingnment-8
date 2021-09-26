@@ -1,0 +1,23 @@
+.cart-style{
+
+
+    width: 250px;
+
+    border:1px solid lightgray;
+    border-radius: 5px ;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: medium;
+
+}
+.cart-container{
+
+
+   background-color:  #9380c0;
+    box-shadow: 3px 3px 11px rgb(35, 35, 36);
+
+}
+#names-list{
+
+    text-align: center;
+}

@@ -6,6 +6,15 @@
   height: 40vmin;
   pointer-events: none;
 }
+.main-container{
+
+
+  text-align: center;
+
+  background-repeat: no-repeat;
+
+
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -36,3 +45,4 @@
     transform: rotate(360deg);
   }
 }
+
