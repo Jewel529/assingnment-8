@@ -1,8 +1,6 @@
-
-
 ## Available Scripts
 
-**In this  project **
+**In this project **
 
  1. This hacker will help user to protect their system from cyber attack
  2.User can Hire hacker
